@@ -1,0 +1,26 @@
+.header{
+    background-color: #1C2B35;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 50px;
+    padding-right: 100px;
+    color: white;
+
+}
+.company-txt{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 17px;
+    font-weight: 500;
+}
+.header a{
+    color: white;
+    text-decoration: none;
+    font-size: 17px;
+    margin-left: 32px;
+    font-family: lato;
+}
+.header a:hover{
+    color: orange;
+}
